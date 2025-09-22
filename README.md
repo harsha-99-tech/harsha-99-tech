@@ -47,9 +47,10 @@
 ---
 
 ## 🐍 Watch my contribution graph get eaten
-![Snake animation](https://github.com/harsha-99-tech/harsha-99-tech/blob/output/github-contribution-grid-snake.svg?raw=true)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌍 Connect with Me  
 <p align="center">
