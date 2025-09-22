@@ -60,15 +60,11 @@
 
 ---
 
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
