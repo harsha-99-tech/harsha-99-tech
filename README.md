@@ -47,7 +47,7 @@
 ---
 
 ## 🐍 Watch my contribution graph get eaten
-![Snake animation](https://github.com/harsha-99-tech/harsha-99-tech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake.svg)
 
 ---
 
