@@ -65,11 +65,11 @@
 
 ---
 
-<!-- ## 🔥 My Contribution Streak
+## 🔥 My Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e73c7e&fire=e73c7e&currStreakLabel=e73c7e" alt="GitHub Streak" />
-</p> -->
+</p>
 
 ---
 
@@ -84,7 +84,6 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e73c7e&fire=e73c7e&currStreakLabel=e73c7e" alt="GitHub Streak" />
 </div>
 
 <p align="center">
