@@ -34,16 +34,25 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind" />
+</p>
+
+### 💻 CMS & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
 ### 🗄️ Databases
@@ -54,13 +63,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 🎨 Design Tools
+### 🎨 Design & Creative Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
@@ -110,103 +122,6 @@
   <img src="https://img.shields.io/badge/🔀_Pull_Requests-25+-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📝_Issues_Resolved-30+-purple?style=for-the-badge" />
 </p>
-
----
-
-<!-- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p> -->
-
----
-
-<!-- ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p> -->
-
----
-
-<!-- ## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=f85149&point=58a6ff" alt="Activity Graph" />
-</p> -->
-
----
-
-<!-- ## 💫 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/harsha-99-tech?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo&config.display=large&config.octicon=true&config.twemoji=true" alt="GitHub Metrics" />
-</p> -->
-
----
-
-<!-- ## 🌟 GitHub Achievements
-
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha-99-tech&theme=tokyonight" />
-</p> -->
-
----
-
-<!-- ## 🏆 Achievements Unlocked
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</p> -->
-
----
-
-<!-- ## 🏆 GitHub Journey
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</p> -->
-
----
-
-<!-- ## 🎯 Milestones & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/harsha-99-tech?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/harsha-99-tech?label=Total%20Stars&style=for-the-badge&color=yellow" />
-  <img src="https://komarev.com/ghpvc/?username=harsha-99-tech&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</p> -->
-
----
-
-<!-- ## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B,-?" alt="Trophies" />
-</p> -->
-
----
-
-<!-- ## 🌟 GitHub Achievements
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha-99-tech&theme=tokyonight" />
-</p> -->
 
 ---
 
