@@ -73,12 +73,23 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p> -->
+  <!-- These auto-update based on your actual GitHub data -->
+  <img src="https://img.shields.io/github/followers/harsha-99-tech?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/harsha-99-tech?label=Total%20Stars&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=harsha-99-tech&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+</p>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha-99-tech&theme=tokyonight" />
+</p>
 
 ---
 
@@ -89,22 +100,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<!-- ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p> -->
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=f85149&point=58a6ff" alt="Activity Graph" />
-</p>
 
 ---
 
@@ -119,15 +114,40 @@
 
 ---
 
-## 💫 GitHub Metrics
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/harsha-99-tech?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo&config.display=large&config.octicon=true&config.twemoji=true" alt="GitHub Metrics" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p> -->
 
 ---
 
-## 🌟 GitHub Achievements
+<!-- ## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p> -->
+
+---
+
+<!-- ## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=f85149&point=58a6ff" alt="Activity Graph" />
+</p> -->
+
+---
+
+<!-- ## 💫 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/harsha-99-tech?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo&config.display=large&config.octicon=true&config.twemoji=true" alt="GitHub Metrics" />
+</p> -->
+
+---
+
+<!-- ## 🌟 GitHub Achievements
 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
@@ -136,31 +156,30 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha-99-tech&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
-## 🏆 Achievements Unlocked
+<!-- ## 🏆 Achievements Unlocked
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
-## 🏆 GitHub Journey
+<!-- ## 🏆 GitHub Journey
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
-## 🎯 Milestones & Achievements
+<!-- ## 🎯 Milestones & Achievements
 
 <p align="center">
-  <!-- These auto-update based on your actual GitHub data -->
   <img src="https://img.shields.io/github/followers/harsha-99-tech?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/harsha-99-tech?label=Total%20Stars&style=for-the-badge&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=harsha-99-tech&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
@@ -168,32 +187,19 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harsha-99-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Achievements
+<!-- ## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsha-99-tech&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B,-?" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
-## 🌟 GitHub Achievements
+<!-- ## 🌟 GitHub Achievements
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-99-tech&theme=tokyonight&hide_border=true" />
@@ -201,7 +207,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha-99-tech&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
