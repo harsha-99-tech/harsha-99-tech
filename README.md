@@ -20,7 +20,7 @@
 - 🌱 Learning: Advanced frontend (animations, Next.js) & design systems
 - 💬 Ask me about: Web development, UI/UX workflows, or creative designs
 - 🎨 Fun fact: I see both code _and_ design as ways of storytelling
-- 🌐 Check out my portfolio: [Your Portfolio Link Here](https://your-portfolio-link.com)
+- 🌐 Check out my portfolio: [Your Portfolio Link Here](https://harsha-nawana.pages.dev)
 
 ---
 
