@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="168" viewBox="0 0 580 168" role="img" aria-label="Wedding Invitation: A digital wedding invitation built for the web.">
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="168" viewBox="0 0 580 168" role="img" aria-label="Wedding Invitation: A digital wedding invitation built for the web."><style>.ar{animation:nd 3.2s ease-in-out 1.6s infinite}@keyframes nd{0%,60%,100%{transform:translate(0,0);opacity:.7}75%{transform:translate(5px,-5px);opacity:1}}@media (prefers-reduced-motion:reduce){.ar{animation:none}}.gl{animation:gl 4s ease-in-out infinite alternate}@keyframes gl{from{opacity:.05}to{opacity:.22}}@media (prefers-reduced-motion:reduce){.gl{animation:none}}</style>
 <rect width="580" height="168" rx="14" fill="#131A24"/><rect x=".5" y=".5" width="579" height="167" rx="14" fill="none" stroke="#2A3446"/>
-<rect x="0" y="22" width="4" height="34" rx="2" fill="#E73C7E"/>
+<defs><radialGradient id="rg" cx="100%" cy="0%" r="80%"><stop offset="0" stop-color="#E73C7E"/><stop offset="1" stop-color="#E73C7E" stop-opacity="0"/></radialGradient></defs><rect class="gl" width="580" height="168" rx="14" fill="url(#rg)"/><rect x="0" y="22" width="4" height="34" rx="2" fill="#E73C7E"/>
 <text x="28" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#E6EDF3">Wedding Invitation</text>
 <text x="28" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8B98AD">A digital wedding invitation built for the web.</text>
-<path d="M534,34 l10,10 l-10,10" fill="none" stroke="#8B98AD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ar" d="M534,34 l10,10 l-10,10" fill="none" stroke="#8B98AD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="28" y="118" width="98" height="26" rx="13" fill="none" stroke="#2A3446"/><text x="77" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#8B98AD">TypeScript</text><rect x="134.0" y="118" width="90" height="26" rx="13" fill="none" stroke="#2A3446"/><text x="179" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#8B98AD">UI design</text>
 </svg>

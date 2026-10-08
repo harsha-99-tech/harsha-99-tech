@@ -6,14 +6,26 @@
 @keyframes af{0%{transform:scale(1.6);opacity:0}60%{transform:scale(.94);opacity:1}100%{transform:scale(1);opacity:1}}
 .dot{animation:rec 2s ease-in-out infinite}
 @keyframes rec{50%{opacity:.25}}
-@media (prefers-reduced-motion:reduce){.cur,.focus,.dot{animation:none}}
+.r{opacity:0;animation:rot 9s ease-in-out infinite}
+.r2{animation-delay:3s}.r3{animation-delay:6s}
+@keyframes rot{0%{opacity:0;transform:translateY(10px)}5%,30%{opacity:1;transform:translateY(0)}35%,100%{opacity:0;transform:translateY(-10px)}}
+.bar{transform-origin:82px 248px;animation:bar 9s ease-in-out infinite}
+@keyframes bar{0%,100%{transform:scaleX(1)}50%{transform:scaleX(1.6)}}
+@media (prefers-reduced-motion:reduce){.cur,.focus,.dot,.r,.bar{animation:none}.r1{opacity:1}}
+.glow{animation:dr 12s ease-in-out infinite alternate}
+@keyframes dr{from{transform:translateX(-60px)}to{transform:translateX(40px)}}
+.sh{animation:sw 6s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(-300px)}60%,100%{transform:translateX(1500px)}}
+@media (prefers-reduced-motion:reduce){.glow,.sh{animation:none}}
 </style>
 <defs>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="hc"><rect width="1200" height="360" rx="18"/></clipPath>
 <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7AA2F7"/><stop offset="1" stop-color="#E73C7E"/></linearGradient>
 <radialGradient id="glow" cx="78%" cy="45%" r="55%"><stop offset="0" stop-color="#E73C7E" stop-opacity=".22"/><stop offset=".5" stop-color="#7AA2F7" stop-opacity=".08"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1200" height="360" rx="18" fill="#0D1117"/>
-<rect width="1200" height="360" rx="18" fill="url(#glow)"/>
+<rect class="glow" width="1200" height="360" rx="18" fill="url(#glow)"/>
 <rect x=".5" y=".5" width="1199" height="359" rx="18" fill="none" stroke="#2A3446"/>
 <g stroke="#E6EDF3" stroke-opacity=".06">
 <line x1="400" y1="20" x2="400" y2="340"/><line x1="800" y1="20" x2="800" y2="340"/>
@@ -30,12 +42,13 @@
 <circle cx="930" cy="168" r="3" fill="#E73C7E"/>
 </g>
 <text x="80" y="178" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="#E6EDF3" letter-spacing="-2">Harsha Nawana<tspan class="cur" fill="#E73C7E">_</tspan></text>
-<text x="82" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#8B98AD">Full stack developer, UI/UX and graphic designer, photographer.</text>
-<rect x="82" y="246" width="96" height="4" rx="2" fill="url(#g)"/>
+<text class="r r1" x="82" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#8B98AD">Full stack developer.</text><text class="r r2" x="82" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#8B98AD">UI/UX and graphic designer.</text><text class="r r3" x="82" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#8B98AD">Photographer and video editor.</text>
+<rect class="bar" x="82" y="246" width="96" height="4" rx="2" fill="url(#g)"/>
 <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8B98AD">
 <text x="62" y="308">f/1.8</text><text x="124" y="308">1/250</text><text x="186" y="308">ISO 100</text>
 <line x1="268" y1="296" x2="268" y2="312" stroke="#2A3446"/>
 <text x="288" y="308" fill="#E6EDF3">React</text><text x="350" y="308" fill="#E6EDF3">Next.js</text><text x="430" y="308" fill="#E6EDF3">Node</text><text x="486" y="308" fill="#E6EDF3">Figma</text>
 <text x="1138" y="308" text-anchor="end">harsha-nawana.pages.dev</text>
 </g>
+<g clip-path="url(#hc)"><rect class="sh" x="0" y="0" width="200" height="360" fill="url(#sg)" transform="skewX(-20)"/></g>
 </svg>

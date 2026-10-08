@@ -9,11 +9,18 @@
   <a href="mailto:harshanawana@gmail.com"><img src="https://img.shields.io/badge/Email-131A24?style=for-the-badge&logo=gmail&logoColor=E73C7E" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <a href="#toolbox"><kbd>&nbsp;Toolbox&nbsp;</kbd></a>
+  <a href="#selected-work"><kbd>&nbsp;Work&nbsp;</kbd></a>
+  <a href="#on-github"><kbd>&nbsp;GitHub&nbsp;</kbd></a>
+  <a href="#lets-talk"><kbd>&nbsp;Contact&nbsp;</kbd></a>
+</p>
+
 <br />
 
 I'm a developer who designs and a designer who codes. I build full stack web and mobile apps with React, Next.js and Node, and I design the interfaces, brands and graphics that sit on top of them. Behind the camera, I shoot and edit photos and video. I care about how a product works and how it feels, in equal measure.
 
-Right now I'm going deeper into Next.js, motion and design systems.
+> **Now** &nbsp;·&nbsp; going deeper into Next.js, motion and design systems.
 
 <br />
 
@@ -21,11 +28,26 @@ Right now I'm going deeper into Next.js, motion and design systems.
 
 ## Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,php,wordpress,py&theme=dark" alt="Development" /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,vercel,cloudflare&theme=dark" alt="Data and tooling" /><br />
+<img src="assets/marquee.svg" width="100%" alt="Technologies I work with" />
+
+
+<details open>
+  <summary><b>Development</b></summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,php,wordpress,py&theme=dark" alt="Development" />
+</details>
+
+<details>
+  <summary><b>Data and tooling</b></summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,vercel,cloudflare&theme=dark" alt="Data and tooling" />
+</details>
+
+<details>
+  <summary><b>Design and media</b></summary>
+  <br />
   <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr&theme=dark" alt="Design" />
-</p>
+</details>
 
 ## Selected work
 
@@ -47,7 +69,9 @@ Design work lives in [Graphics](https://github.com/harsha-99-tech/Graphics) and 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&langs_count=6&bg_color=131A24&title_color=E6EDF3&text_color=8B98AD&border_color=2A3446&border_radius=14" alt="Most used languages" />
 </p>
 
-<details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&bg_color=0D1117&color=7AA2F7&line=E73C7E&point=E6EDF3&area=true&area_color=E73C7E&hide_border=true&title_color=E6EDF3" width="100%" alt="Contribution activity graph" />
+
+<details open>
   <summary>Contribution snake</summary>
   <br />
   <picture>
@@ -55,6 +79,10 @@ Design work lives in [Graphics](https://github.com/harsha-99-tech/Graphics) and 
     <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/harsha-99-tech/harsha-99-tech/output/github-contribution-grid-snake.svg">
   </picture>
 </details>
+
+## Let's talk
+
+Have a project, a collaboration or a shoot in mind? [Say hello](mailto:harshanawana@gmail.com) or take a look at the [portfolio](https://harsha-nawana.pages.dev).
 
 <br />
 
