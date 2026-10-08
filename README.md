@@ -69,8 +69,6 @@ Design work lives in [Graphics](https://github.com/harsha-99-tech/Graphics) and 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-99-tech&layout=compact&langs_count=6&bg_color=131A24&title_color=E6EDF3&text_color=8B98AD&border_color=2A3446&border_radius=14" alt="Most used languages" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-99-tech&bg_color=0D1117&color=7AA2F7&line=E73C7E&point=E6EDF3&area=true&area_color=E73C7E&hide_border=true&title_color=E6EDF3" width="100%" alt="Contribution activity graph" />
-
 <details open>
   <summary>Contribution snake</summary>
   <br />
