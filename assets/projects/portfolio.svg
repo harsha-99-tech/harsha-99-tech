@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="168" viewBox="0 0 580 168" role="img" aria-label="Portfolio: My personal portfolio, live on Cloudflare Pages.">
+<rect width="580" height="168" rx="14" fill="#131A24"/><rect x=".5" y=".5" width="579" height="167" rx="14" fill="none" stroke="#2A3446"/>
+<rect x="0" y="22" width="4" height="34" rx="2" fill="#7AA2F7"/>
+<text x="28" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#E6EDF3">Portfolio</text>
+<text x="28" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8B98AD">My personal portfolio, live on Cloudflare Pages.</text>
+<path d="M534,34 l10,10 l-10,10" fill="none" stroke="#8B98AD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="118" width="98" height="26" rx="13" fill="none" stroke="#2A3446"/><text x="77" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#8B98AD">TypeScript</text><rect x="134.0" y="118" width="98" height="26" rx="13" fill="none" stroke="#2A3446"/><text x="183" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#8B98AD">Cloudflare</text>
+</svg>
